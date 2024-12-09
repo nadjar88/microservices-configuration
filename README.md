@@ -1,4 +1,4 @@
 # microservices-configuration
 
 Example configuration properties update
-TEST
+TEST 2
