@@ -1,3 +1,3 @@
 # microservices-configuration
 
-Example configuration properties
+Example configuration properties 
